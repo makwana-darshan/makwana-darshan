@@ -1,16 +1,36 @@
-## Hi there 👋
+    Hi, I'm Darshan Makwana
 
-<!--
-**makwana-darshan/makwana-darshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Java Backend Developer specializing in Spring Boot and REST APIs.
 
-Here are some ideas to get you started:
+    I build secure, scalable, and high-performance backend systems using modern Java technologies. Passionate about clean architecture, database design, and writing maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Tech Stack
+    
+   Backend:
+     Java | Spring Boot | Spring Security | REST APIs | Hibernate | JPA
+
+  Database:
+    MySQL | SQL
+
+  Frontend:
+    HTML | CSS | JavaScript | Bootstrap
+
+  Tools:
+    Git | GitHub | Postman | Eclipse | VS Code
+    
+  Featured Projects
+ 🔹 Expense Tracker Web Application
+
+ Full-stack web app for managing daily expenses and budgets.
+ Tech: Java, Spring Boot, Hibernate, MySQL
+ Features: Authentication, CRUD operations, expense tracking
+
+ 🔹 Insurance Claim Management System
+
+ Backend system for managing insurance claims with role-based access.
+ Tech: Spring Boot, MySQL, REST API
+
+   📫 Connect With Me
+🌐 Portfolio: https://darshan-makwana.netlify.app/
+💼 LinkedIn: https://linkedin.com/in/darshan-makwana-bb81162b8
+📧 Email: makwanadarshan901
