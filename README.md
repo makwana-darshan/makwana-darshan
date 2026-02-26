@@ -1,8 +1,8 @@
-    Hi, I'm Darshan Makwana
+ Hi, I'm Darshan Makwana
 
-    Java Backend Developer specializing in Spring Boot and REST APIs.
+Java Backend Developer specializing in Spring Boot and REST APIs.
 
-    I build secure, scalable, and high-performance backend systems using modern Java technologies. Passionate about clean architecture, database design, and writing maintainable code.
+I build secure, scalable, and high-performance backend systems using modern Java technologies. Passionate about clean architecture, database design, and writing maintainable code.
 
  Tech Stack
     
@@ -33,4 +33,4 @@
    📫 Connect With Me
 🌐 Portfolio: https://darshan-makwana.netlify.app/
 💼 LinkedIn: https://linkedin.com/in/darshan-makwana-bb81162b8
-📧 Email: makwanadarshan901
+📧 Email: makwanadarshan901@gmail.com
