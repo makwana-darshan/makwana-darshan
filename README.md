@@ -32,5 +32,5 @@ I build secure, scalable, and high-performance backend systems using modern Java
 
    📫 Connect With Me
 🌐 Portfolio: https://darshan-makwana.netlify.app/
-💼 LinkedIn: https://linkedin.com/in/darshan-makwana-bb81162b8
+💼 LinkedIn: https://linkedin.com/in/darshan-makwana-dev
 📧 Email: makwanadarshan901@gmail.com
